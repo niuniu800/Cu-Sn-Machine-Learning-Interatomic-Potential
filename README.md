@@ -1,4 +1,7 @@
+This project is qualified for participation in the "National Pioneer Cup on Intelligent Computing – Shandong University of Science and Technology Selection
+
 Cu-Sn Machine Learning Interatomic Potential
+
 This repository contains a machine learning interatomic potential (MLIP) model for the Cu-Sn alloy system, developed using the Deep Potential Generator (DP-GEN) and DeepMD-kit frameworks. The trained model is provided as frozen_model.pb.
 
 Using this DP model, we performed molecular dynamics (MD) simulations to compute the energy–volume (E–V) curve, elastic moduli, and phonon spectra of Cu-Sn compounds. The simulation results show excellent agreement with density functional theory (DFT) calculations, demonstrating that the developed model achieves DFT-level accuracy while maintaining significantly higher computational efficiency.
