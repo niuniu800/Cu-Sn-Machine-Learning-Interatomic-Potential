@@ -24,4 +24,4 @@ Repository Structure
 
 ├── frozen_model.pb         # Final trained Deep Potential model
 
-└── report/                 # Experimental report and summary
+└── Research on Efficient Molecular Dynamics Simulation Methods Based on Machine Learning Potentials/                 # Experimental report and summary
