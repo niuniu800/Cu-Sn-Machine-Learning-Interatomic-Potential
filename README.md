@@ -18,11 +18,9 @@ Repository Structure
 
 ├── result                 # MD results: energy–volume curves, phonon spectra
 
-├── Dataset
+│      ├── E-V.jpg          # Energy-Volume curve 
 
-│      ├── init_data          # Initial dataset used to bootstrap DP-GEN
-
-│      └── training_data      # New data added during iterative training
+│      └── Phonon dispersion relation.jpg      # Phonon dispersion relation
 
 ├── frozen_model.pb         # Final trained Deep Potential model
 
